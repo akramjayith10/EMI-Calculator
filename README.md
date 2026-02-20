@@ -28,12 +28,6 @@ Where:
 - C Programming
 - Math Library (math.h)
 
-## ▶ How to Run
-
-1. Copy the code.
-2. Paste it in any online C compiler.
-3. Click Run.
-
 ## 👤 Author
 
 Akram Jayith
